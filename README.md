@@ -28,12 +28,22 @@
 ---
 
 ### 🌟 Featured Projects
-- [Project Name - Description](https://github.com/your-username/project-repo): A brief description of your project.
-  - **Technologies**: Python, TensorFlow, etc.
-  - ![Stars](https://img.shields.io/github/stars/your-username/project-repo?style=social) ![Forks](https://img.shields.io/github/forks/your-username/project-repo?style=social)
-- [Project Name - Description](https://github.com/your-username/project-repo): Another project description.
-  - **Technologies**: JavaScript, React, etc.
-  - ![Stars](https://img.shields.io/github/stars/your-username/project-repo?style=social) ![Forks](https://img.shields.io/github/forks/your-username/project-repo?style=social)
+- [**Online Food Order App** - A web application for ordering food online](https://github.com/Lava-Kumar-PL/online-food-order-app): A platform for users to browse restaurants and order food.
+  - **Technologies**: JavaScript, Node.js, Express, MongoDB
+  - ![Stars](https://img.shields.io/github/stars/Lava-Kumar-PL/online-food-order-app?style=social) ![Forks](https://img.shields.io/github/forks/Lava-Kumar-PL/online-food-order-app?style=social)
+
+- [**Driver State Detection & Drowsiness Detection** - A project to detect driver fatigue](https://github.com/Lava-Kumar-PL/DriverStateDetction_And_DrosinessDetection): Using computer vision to monitor the driver’s state and detect drowsiness.
+  - **Technologies**: Python, OpenCV, TensorFlow
+  - ![Stars](https://img.shields.io/github/stars/Lava-Kumar-PL/DriverStateDetction_And_DrosinessDetection?style=social) ![Forks](https://img.shields.io/github/forks/Lava-Kumar-PL/DriverStateDetction_And_DrosinessDetection?style=social)
+
+- [**Payment Fraud Detection** - Detect fraudulent payment transactions](https://github.com/Lava-Kumar-PL/payment_fraud_detection): A machine learning model to identify fraudulent transactions in payment systems.
+  - **Technologies**: Python, Scikit-Learn, Pandas
+  - ![Stars](https://img.shields.io/github/stars/Lava-Kumar-PL/payment_fraud_detection?style=social) ![Forks](https://img.shields.io/github/forks/Lava-Kumar-PL/payment_fraud_detection?style=social)
+
+- [**Phishing URL Detection** - A tool to identify phishing websites](https://github.com/Lava-Kumar-PL/Phishing_url_detection): Using machine learning algorithms to classify phishing websites.
+  - **Technologies**: Python, Machine Learning, Scikit-Learn
+  - ![Stars](https://img.shields.io/github/stars/Lava-Kumar-PL/Phishing_url_detection?style=social) ![Forks](https://img.shields.io/github/forks/Lava-Kumar-PL/Phishing_url_detection?style=social)
+
 
 ---
 
@@ -48,7 +58,7 @@
 ### 📫 Connect with Me!
 [![LinkedIn](https://img.shields.io/badge/-Lava%20Kumar%20P%20L-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/your-linkedin/)  
 [![GitHub](https://img.shields.io/badge/-LavaKumarPL-gray?style=flat-square&logo=github&logoColor=white&link=https://github.com/your-username)](https://github.com/Lava-Kumar-PL)  
-[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-ff69b4?style=flat-square)](https://yourportfolio.com/)
+[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-ff69b4?style=flat-square)]()
 
 ---
 
