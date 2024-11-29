@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-![Header](./your_banner_image.png)
+![Header](./lavaKumarBanner.png)
 
 ### Hey there! 👋 I'm Lava Kumar P L
 <a href="https://github.com/Lava-Kumar-PL" target="_blank">
